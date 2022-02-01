@@ -1,0 +1,37 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+/* HEADER */
+body{background-image: url(/assets/img/sfondo.png);
+    font-family: Poppins, sans-serif;
+
+}
+
+header{text-align: center;
+    background-color:#0099bb ;
+    height: 285px;
+    border-radius: 1%;
+}
+div p{color: white;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 800px;
+    
+    
+
+}
+
+
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
