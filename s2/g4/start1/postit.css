@@ -1,0 +1,100 @@
+#box-info{width:1200px;
+    height: 800px;
+    
+    background-color:dimgrey;
+    border: rgb(138, 107, 107) solid 3px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+#box1 {background-color:#d1d17d;
+
+text-align: center;
+font-size:20px;
+height:22%;
+width:22%;
+transform: rotate(-5deg);
+
+
+}
+
+#box2{background-color: #a1cc98;
+    
+    text-align: center;
+    font-size: 20px;
+    height: 22%;
+    width: 22%;
+    border: rgb(179, 196, 168) solid 1px;
+    transform: rotate(5deg);
+
+}
+
+#box3{background-color:#9d7fbe;
+font-size: 20px;
+
+height: 22%;
+width: 22%;
+border: violet solid 1px;
+
+text-align: center;
+transform:rotate(-2deg)
+}
+
+#box4{background-color:#a1cc98 ;
+    font-size:20px;
+height:22% ;
+width: 22%;
+text-align: center;
+transform: rotate(7deg);
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+#box5{background-color:#d1d17d;
+    font-size: 20px;
+    height: 22%;
+    width: 22%;
+    text-align: center;
+    transform: rotate(-4deg);
+}
+
+#box6{background-color:#9d7fbe ;
+    font-size: 20px;
+    height: 22%;
+    width: 22%;
+    text-align: center;
+    transform: rotate(-6deg);
+}
+
+#box7{background-color:#d1d17d ;
+    font-size: 20px;
+    height: 22%;
+    width: 22%;
+    text-align: center;
+    transform: rotate(-6deg);
+}
+
+#box8{background-color:#a1cc98 ;
+    font-size: 20px;
+    height: 22%;
+    width: 22%;
+    text-align: center;
+    transform: rotate(6deg);
+}
+
+h2{font-weight:600;
+    font-family: yellowtail;
+    font-size: 100%;
+}
+
+p{font-family: yellowtail;
+    font-weight: 300;
+    font-size: 90%;
+
+}
+
+
