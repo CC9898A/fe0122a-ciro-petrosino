@@ -1,0 +1,40 @@
+#logo{padding-left:180px;
+    
+}
+
+html{display: flex;
+
+}
+
+#href{padding-left:750px ;
+
+}
+
+body nav{text-align: center;
+font-size: 24px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+form{text-align: left;
+    padding-left: 110px;
+
+}
+
+#descr{text-align: center;
+    font-size: 17px;
+    padding-left:300px;
+
+}
+
+#foot{display: flex;
+  background-color:#f1e3e3;
+ height: 200px;
+ width: 1200px;
+
+}
+
+button{color: antiquewhite;
+    background-color: cornflowerblue;
+   
+
+}
