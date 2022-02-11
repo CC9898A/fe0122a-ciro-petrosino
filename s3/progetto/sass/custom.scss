@@ -1,0 +1,18 @@
+@function backgroundcolor ($backgroundcolor){
+@if opacity > 0 {
+    @return ($fontcolor,$backgroundcolor);
+ } @else {
+
+@return ($fontcolor2,$fontcolor2)
+    }
+    
+}
+
+
+
+
+
+@import "variables"
+
+
+

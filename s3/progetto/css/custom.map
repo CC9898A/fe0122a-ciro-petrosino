@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sources": [
+		"../sass/custom.scss",
+		"../sass/_variables.scss"
+	],
+	"sourcesContent": [
+		"@function backgroundcolor ($backgroundcolor){\r\n@if (lightness) ($backgroundcolor)> 50 {\r\n    @return $fontcolor;\r\n } @else {\r\n\r\n@return $fontcolor2\r\n    }\r\n    \r\n}\r\n\r\n\r\n\r\n\r\n\r\n@import \"variables\"\r\n\r\n\r\n\r\n",
+		"$backgroundcolor:#dcdcdf;\r\n$fontcolor:#a8a7bb;\r\n$fontcolor2:#282828;\r\n$backgroundcolor2:#eaeaea;"
+	],
+	"names": [],
+	"mappings": ""
+}

@@ -1,0 +1,15 @@
+{
+  "name": "progetto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/custom.scss css/custom.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "node-sass": "^7.0.1"
+  }
+}
