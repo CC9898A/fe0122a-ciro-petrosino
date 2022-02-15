@@ -1,3 +1,6 @@
+@import "variables";
+
+
 @function backgroundcolor ($backgroundcolor){
 @if opacity > 0 {
     @return ($fontcolor,$backgroundcolor);
@@ -9,10 +12,11 @@
 }
 
 
+p{background-color: aqua;
+
+}
 
 
-
-@import "variables"
 
 
 
