@@ -33,16 +33,7 @@ bottone.addEventListener("click", function () {
 //con questa funzione salvo e aggiorno i dati in localstorage
 function salvaDatiNelDb(aggiunta){
 
-    /*salvataggio dati*/
-    
-        /* versione estesa
-        if( localStorage.getItem('elementiSalvati') == null ){
-            var db = [aggiunta]
-        }else{
-        var db = JSON.parse(localStorage.getItem('elementiSalvati'))
-        db.push(aggiunta)
-    }
-    */
+   
 
     var ls = localStorage.getItem('elementiSalvati')
     
