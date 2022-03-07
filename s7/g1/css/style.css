@@ -1,0 +1,23 @@
+
+
+html{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+input{background-color: rgba(231, 246, 235, 0.568);
+border:  rgb(208, 224, 226);
+width: 250px;
+height: 35px;
+
+}
+
+h2{color: rgb(7, 12, 10);
+}
+
+button{background-color: cadetblue;
+   border: 2px solid;
+   
+
+
+}
