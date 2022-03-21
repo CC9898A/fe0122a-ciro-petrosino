@@ -14,9 +14,10 @@ bottone.addEventListener("click", function () {
 //qui assegno la rimozione degli elementi inseriti con l'input
     ul.addEventListener("click", function () {
         ul.remove();
+        rimuoviElementodaDb(ul)
     })
 
-
+salvaDatiNelDb(aggiunta)
 })
 
 

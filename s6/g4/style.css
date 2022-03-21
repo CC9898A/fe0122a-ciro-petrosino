@@ -1,0 +1,18 @@
+#loadingbar{width:0px;
+    height: 50px;
+    background-color: rgb(49, 226, 102);
+    border: solid 1px rgb(109, 206, 153);
+
+}
+
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(88, 182, 211);
+}
+
+button{width: 70px;
+    height: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(255, 255, 255);
+color: rgb(4, 9, 14);
+
+}

@@ -1,0 +1,20 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(24, 4, 4);
+    
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(184, 248, 178);
+    -webkit-box-shadow: 47px -4px 23px 4px rgba(46,255,100,0.25); 
+    box-shadow: 47px -4px 23px 4px rgba(46,255,100,0.25);
+    background: #57c24b;
+
+    
+
+}
