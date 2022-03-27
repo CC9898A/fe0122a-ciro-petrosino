@@ -1,3 +1,4 @@
+import { partitionArray } from '@angular/compiler/src/util';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,16 +8,26 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TODOComponent implements OnInit {
 
-
+task: Task[] =[]
 
 
 
   constructor() { }
 
   ngOnInit(): void {
+
+
+
+
+
   }
 
-senddata():any{
+gettask(){
+  let data:any=this.task
+  const para = document.createElement("p");
+  para.innerText = data;
+  document.body.appendChild(para);
+
 
 
 
@@ -25,6 +36,14 @@ senddata():any{
 
 
 }
+
+
+
+
+
+
+
+
 
 
 }

@@ -1,8 +1,7 @@
-<input class="form-control" type="text" placeholder="Inserisci qui la tua lista" ng-model="value">
+<input class="form-control" type="text" placeholder="Inserisci qui la tua lista" [(ngModel)]="task">
+<br>
+<button type="button" class="btn btn-light" (click)="gettask()">+</button>
 
-<button type="button" class="btn btn-light">Add todolist</button>
-<button type="button" class="btn btn-light">Remove todolist</button>
-<br>
-<br>
-<h2>Lista:</h2>
+
+
 
