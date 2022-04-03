@@ -1,0 +1,50 @@
+{
+
+"prodotti":[
+
+
+{"codiceidentificativo":252155,
+  "disponibilità":true,
+  "nome_articolo":"GalaxyAceM",
+  "descrizione":"il più versatile e poliedrico smartphone di casa Galaxy",
+  "prezzo":"€375,00"
+
+
+
+
+
+
+},
+{"codiceidentificativo":434350,
+  "disponibilità":false,
+  "nome_articolo":"SmithPolar",
+  "descrizione":"Il nuovo smartwatch targato SmithPolar",
+  "prezzo":"€125,00"
+
+
+
+
+},
+{"codiceidentificativo":313770,
+  "disponibilità":false,
+  "nome_articolo":"GCOREVV",
+  "descrizione":"L'Agenda elettronica che non ti lascia mai ",
+  "prezzo":"€75,00"
+
+
+
+
+
+
+
+}
+
+
+
+
+
+]
+
+
+
+}
