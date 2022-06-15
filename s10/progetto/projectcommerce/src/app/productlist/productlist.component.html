@@ -1,0 +1,13 @@
+<div class="d-flex justify-content-evenly 5 mb-10">
+  <div class="row text-center m-5">
+    <h3 id="caricamento" *ngIf="staCaricando">Loading...</h3>
+
+    <div class="col-sm-4 5 mb-5 " *ngFor="let prodotti of prodottiNegozio">
+      <div>
+        <div class="card-body mb-2" id="cardBody">
+          <div class="mt-4">
+            <h4 class="card-title">{{ prodotti.nome_articolo }}</h4>
+            <p class="card-text">{{ prodotti.prezzo}}</p>
+          </div>
+        </div>
+      </div>
